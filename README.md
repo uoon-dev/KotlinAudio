@@ -36,7 +36,7 @@ minSDK 21
 ### Gradle
 
 ```gradle
-implementation 'com.github.doublesymmetry:kotlinaudio:v2.0.0'
+implementation 'com.github.doublesymmetry:kotlinaudio:v2.1.0'
 ```
 
 ## Usage
